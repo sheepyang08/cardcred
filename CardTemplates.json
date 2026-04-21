@@ -1,0 +1,2698 @@
+[
+  {
+    "id": "chase-freedom-flex-2026",
+    "name": "Freedom Flex",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 0,
+    "suggestedBenefits": [],
+    "categoryBonuses": [
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "5%",
+        "quarterNumber": 1,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Norwegian Cruise Line",
+        "multiplierLabel": "5%",
+        "quarterNumber": 1,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "American Heart Association",
+        "multiplierLabel": "5%",
+        "quarterNumber": 1,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Amazon",
+        "multiplierLabel": "5%",
+        "quarterNumber": 2,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Whole Foods Market",
+        "multiplierLabel": "5%",
+        "quarterNumber": 2,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Chase Travel",
+        "multiplierLabel": "5%",
+        "quarterNumber": 2,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Feeding America",
+        "multiplierLabel": "5%",
+        "quarterNumber": 2,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Chase Travel Portal",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Drugstores",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ]
+  },
+  {
+    "id": "chase-freedom-unlimited-2026",
+    "name": "Freedom Unlimited",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Chase Travel Portal",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Drugstores",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "1.5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "DoorDash Non-Restaurant Credit",
+        "amount": 10,
+        "cycle": "Quarterly",
+        "description": "每季最高 $10（全年 $40）。限 DoorDash 非餐廳訂單（如超市、便利店）。每季每人限用一次。有效期至 2027/12/31。"
+      }
+    ]
+  },
+  {
+    "id": "discover-it-2026",
+    "name": "Discover it",
+    "bankName": "Discover",
+    "hexColor": "#FF6600",
+    "annualFee": 0,
+    "suggestedBenefits": [],
+    "categoryBonuses": [
+      {
+        "categoryName": "Grocery Stores, Wholesale Clubs & Streaming",
+        "multiplierLabel": "5%",
+        "quarterNumber": 1,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Restaurants & Home Improvement Stores",
+        "multiplierLabel": "5%",
+        "quarterNumber": 2,
+        "quarterYear": 2026
+      }
+    ]
+  },
+  {
+    "id": "amex-platinum-2026-final",
+    "name": "Amex Platinum",
+    "bankName": "American Express",
+    "hexColor": "#0038A8",
+    "annualFee": 895,
+    "categoryBonuses": [
+      {
+        "categoryName": "Flights (via Amex Travel or Direct Airlines)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Prepaid Hotels (via Amex Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Hotel Credit (FHR/HC)",
+        "amount": 300,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $300 (全年 $600)。需透過 Amex Travel 預訂，THC 需連住兩晚。"
+      },
+      {
+        "title": "Resy Dining Credit",
+        "amount": 100,
+        "cycle": "Quarterly",
+        "description": "每季度 $100 (全年 $400)。需先註冊，適用於 Resy 合作餐廳。"
+      },
+      {
+        "title": "lululemon Credit",
+        "amount": 75,
+        "cycle": "Quarterly",
+        "description": "2026 新福利：每季度 $75 (全年 $300)。適用於美國實體店或官網。"
+      },
+      {
+        "title": "Digital Entertainment",
+        "amount": 25,
+        "cycle": "Monthly",
+        "description": "每月 $25 (全年 $300)。含 YouTube Premium, Disney+, Hulu, NYT, WSJ 等。"
+      },
+      {
+        "title": "Uber Cash",
+        "amount": 15,
+        "cycle": "Monthly",
+        "description": "每月 $15 (12月 $35)。可用於美國 Uber 乘車或 Uber Eats 外送。"
+      },
+      {
+        "title": "Uber One Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10 (全年 $120)。用於折抵 Uber One 會員費。"
+      },
+      {
+        "title": "Saks Fifth Avenue",
+        "amount": 50,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $50（全年 $100）。上半年 1-6 月，下半年 7-12 月。注意：此福利將於 2026 年 7 月 1 日終止，下半年額度將不再發放。"
+      },
+      {
+        "title": "Oura Ring Credit",
+        "amount": 200,
+        "cycle": "Annually",
+        "description": "每年 $200。需於 ouraring.com 購買 Oura Ring 硬體，需事先登錄。依日曆年度（1/1）重置。"
+      },
+      {
+        "title": "Walmart+ Credit",
+        "amount": 12.95,
+        "cycle": "Monthly",
+        "description": "每月全額報銷 Walmart+ 會員費 ($12.95 + 稅)。"
+      },
+      {
+        "title": "Airline Fee Credit",
+        "amount": 200,
+        "cycle": "Annually",
+        "description": "每年 $200。依日曆年度（1/1）重置。用於所選航空公司的行李費、機上餐飲等附加費。"
+      },
+      {
+        "title": "CLEAR+ Credit",
+        "amount": 209,
+        "cycle": "Annually",
+        "description": "每年 $209。依日曆年度（1/1）重置。全額報銷 CLEAR+ 會員費。"
+      },
+      {
+        "title": "Equinox Credit",
+        "amount": 300,
+        "cycle": "Annually",
+        "description": "每年 $300。依日曆年度（1/1）重置。用於 Equinox 健身會員或 Equinox+ App。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry ($120) 或 TSA PreCheck。"
+      }
+    ]
+  },
+  {
+    "id": "amex-platinum-business-2026",
+    "name": "Amex Platinum Business",
+    "bankName": "American Express",
+    "hexColor": "#2D2D2D",
+    "annualFee": 895,
+    "categoryBonuses": [
+      {
+        "categoryName": "Flights (via Amex Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Hotels (via Amex Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Purchases $5,000+",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Select U.S. Business Categories",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Hotel Credit (FHR/HC)",
+        "amount": 300,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $300 (全年 $600)。需透過 Amex Travel 預訂 Fine Hotels + Resorts 或 Hotel Collection (最低連住兩晚)。"
+      },
+      {
+        "title": "Hilton Credit",
+        "amount": 50,
+        "cycle": "Quarterly",
+        "description": "每季 $50 (全年 $200)。於 Hilton 旗下飯店消費可獲回饋，需事先登錄。"
+      },
+      {
+        "title": "Indeed Credit",
+        "amount": 90,
+        "cycle": "Quarterly",
+        "description": "每季 $90 (全年 $360)。用於 Indeed 平台招聘廣告等消費。"
+      },
+      {
+        "title": "Wireless Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月 $10 (全年 $120)。用於美國無線電信業者消費，如 AT&T、Verizon、T-Mobile 等。"
+      },
+      {
+        "title": "Dell Technologies Credit",
+        "amount": 150,
+        "cycle": "Annually",
+        "description": "每年基本 $150 回饋（依日曆年度 1/1 重置）；若當年 Dell 消費達 $5,000，可額外獲得最高 $1,000 回饋。需於 Dell 官方管道消費。"
+      },
+      {
+        "title": "Adobe Credit",
+        "amount": 250,
+        "cycle": "Annually",
+        "description": "每年 $250。依日曆年度（1/1）重置。需於 Adobe 官方管道消費達 $600 門檻才可觸發。"
+      },
+      {
+        "title": "Airline Fee Credit",
+        "amount": 200,
+        "cycle": "Annually",
+        "description": "每年 $200。依日曆年度（1/1）重置。需選定一家航空公司，用於托運行李費、座位升艙費等附加費用。"
+      },
+      {
+        "title": "CLEAR+ Credit",
+        "amount": 209,
+        "cycle": "Annually",
+        "description": "每年 $209。依日曆年度（1/1）重置。全額報銷 CLEAR+ 年費。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry ($120) 或 TSA PreCheck ($85) 申請費。"
+      }
+    ]
+  },
+  {
+    "id": "amex-gold-2026",
+    "name": "Amex Gold",
+    "bankName": "American Express",
+    "hexColor": "#D4AF37",
+    "annualFee": 325,
+    "categoryBonuses": [
+      {
+        "categoryName": "Dining (Worldwide)",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Supermarkets",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Flights (Direct with Airlines or Amex Travel)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Dining Credit (Grubhub/etc)",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月 $10。適用於 Grubhub, The Cheesecake Factory, Goldbelly, Wine.com, Five Guys。"
+      },
+      {
+        "title": "Uber Cash (Gold)",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月 $10。可用於美國境內 Uber 乘車或 Uber Eats 外送。"
+      },
+      {
+        "title": "Dunkin' Credit",
+        "amount": 7,
+        "cycle": "Monthly",
+        "description": "每月 $7。僅限美國 Dunkin' 門市消費。"
+      },
+      {
+        "title": "Resy Dining Credit (Gold)",
+        "amount": 50,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $50 (1-6月/7-12月)。需先註冊，適用於美國 Resy 合作餐廳。"
+      }
+    ]
+  },
+  {
+    "id": "amex-blue-cash-everyday-2026",
+    "name": "Blue Cash Everyday",
+    "bankName": "American Express",
+    "hexColor": "#0077C8",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "U.S. Supermarkets",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Gas Stations",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Online Retail",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Disney Bundle Credit",
+        "amount": 7,
+        "cycle": "Monthly",
+        "description": "每月最高 $7 回饋（全年最高 $84）。需於 DisneyPlus.com、Hulu.com 或 Stream.ESPN.com 訂閱，需事先登錄。訂閱費須達 $9.99 以上方可觸發。"
+      },
+      {
+        "title": "Home Chef Credit",
+        "amount": 15,
+        "cycle": "Monthly",
+        "description": "每月最高 $15 回饋（全年最高 $180）。需於 homechef.com 線上購買 Home Chef 餐點包方案，需事先登錄。僅限美國本土使用，有效期至 2026/12/31。"
+      }
+    ]
+  },
+  {
+    "id": "amex-blue-cash-preferred-2026",
+    "name": "Blue Cash Preferred",
+    "bankName": "American Express",
+    "hexColor": "#0038A8",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "U.S. Supermarkets",
+        "multiplierLabel": "6%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Select U.S. Streaming",
+        "multiplierLabel": "6%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Gas Stations & Transit",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Disney Bundle Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10 回饋（全年最高 $120）。需於 DisneyPlus.com、Hulu.com 或 Stream.ESPN.com 訂閱，需事先登錄。此福利實際上可覆蓋 $95 年費。"
+      },
+      {
+        "title": "Home Chef Credit",
+        "amount": 15,
+        "cycle": "Monthly",
+        "description": "每月最高 $15 回饋（全年最高 $180）。需於 homechef.com 線上購買 Home Chef 餐點包方案，需事先登錄。僅限美國本土使用，有效期至 2026/12/31。"
+      }
+    ]
+  },
+  {
+    "id": "amex-marriott-brilliant-2026",
+    "name": "Marriott Bonvoy Brilliant",
+    "bankName": "American Express",
+    "hexColor": "#8B1A1A",
+    "annualFee": 650,
+    "categoryBonuses": [
+      {
+        "categoryName": "Marriott Bonvoy Hotels",
+        "multiplierLabel": "6x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Flights",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Brilliant Dining Credit",
+        "amount": 25,
+        "cycle": "Monthly",
+        "description": "每月 $25（全年 $300）。適用於全球餐廳消費（含咖啡廳、餐車等，商家需標記為餐廳類別）。每月未用完的額度不累計至下月。"
+      },
+      {
+        "title": "Annual Free Night Award",
+        "amount": 250,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年續卡週年日獲得一張免費住宿券，最高可兌換 85,000 點的 Marriott 旗下房型，可額外加碼最多 25,000 點（共最高 110,000 點）。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）或 TSA PreCheck（$85）申請費。需以此卡付費。"
+      }
+    ]
+  },
+  {
+    "id": "amex-hilton-business-2026",
+    "name": "Hilton Honors Business",
+    "bankName": "American Express",
+    "hexColor": "#2D2D2D",
+    "annualFee": 195,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hilton Hotels",
+        "multiplierLabel": "12x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Hilton Property Credit",
+        "amount": 60,
+        "cycle": "Quarterly",
+        "description": "每季 $60（全年 $240）。需直接在 Hilton 旗下飯店消費（客房、餐廳、Spa 等現場刷卡），不適用於第三方訂房平台（如 Expedia）。每季未用完的額度不累計至下季。"
+      }
+    ]
+  },
+  {
+    "id": "amex-hilton-surpass-2026",
+    "name": "Hilton Honors Surpass",
+    "bankName": "American Express",
+    "hexColor": "#C4993A",
+    "annualFee": 150,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hilton Portfolio Hotels",
+        "multiplierLabel": "12x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Restaurants",
+        "multiplierLabel": "6x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Supermarkets",
+        "multiplierLabel": "6x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Gas Stations",
+        "multiplierLabel": "6x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Online Retail",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Hilton Property Credit",
+        "amount": 50,
+        "cycle": "Quarterly",
+        "description": "每季 $50（全年 $200）。需直接在 Hilton 旗下飯店刷卡消費（客房、餐廳、Room Service、Spa 等），不適用於 Hilton.com 訂房。每季未用完的額度不累計至下季。"
+      }
+    ]
+  },
+  {
+    "id": "hilton-aspire-2026",
+    "name": "Hilton Aspire",
+    "bankName": "American Express",
+    "hexColor": "#002D62",
+    "annualFee": 550,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hilton Portfolio Hotels",
+        "multiplierLabel": "14x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Flights (Direct or via Amex Travel)",
+        "multiplierLabel": "7x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Car Rentals (Select Companies)",
+        "multiplierLabel": "7x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Restaurants",
+        "multiplierLabel": "7x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Hilton Resort Credit",
+        "amount": 200,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $200 (1-6月/7-12月)。僅限參與活動的 Hilton Resort 門市消費。"
+      },
+      {
+        "title": "Airline Fee Credit (Aspire)",
+        "amount": 50,
+        "cycle": "Quarterly",
+        "description": "每季 $50。適用於機票或航空公司附屬費用（需直接向航空公司或透過 AmexTravel 購買）。"
+      },
+      {
+        "title": "CLEAR+ Credit",
+        "amount": 209,
+        "cycle": "Annually",
+        "description": "每年 $209。依日曆年度（1/1）重置。用於支付 CLEAR+ 會員費用。"
+      },
+      {
+        "title": "Annual Free Night Reward",
+        "amount": 250,
+        "cycle": "Annually (Anniversary)",
+        "description": "價值約 $250+。依開卡週年日重置。每年續卡時獲得一張免費住宿券。"
+      },
+      {
+        "title": "Waldorf/Conrad Credit",
+        "amount": 100,
+        "cycle": "Annually (Anniversary)",
+        "description": "每次入住 $100 飯店帳單折抵。需透過 HiltonHonorsAspireCard.com 或致電 855-292-5757 以「Waldorf Astoria Honors Aspire」費率預訂 Waldorf Astoria 或 Conrad，需連住 2 晚以上。非每年一次——每次符合資格的入住均可使用。"
+      }
+    ]
+  },
+  {
+    "id": "amex-green-2026",
+    "name": "Amex Green",
+    "bankName": "American Express",
+    "hexColor": "#006400",
+    "annualFee": 150,
+    "categoryBonuses": [
+      {
+        "categoryName": "Travel & Transit",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "CLEAR Plus Credit",
+        "amount": 209,
+        "cycle": "Annually",
+        "description": "每年最高 $209 抵免 CLEAR Plus 會員費用。需以此卡支付 CLEAR Plus 訂閱費，依日曆年度重置。"
+      }
+    ]
+  },
+  {
+    "id": "amex-hilton-honors-2026",
+    "name": "Hilton Honors",
+    "bankName": "American Express",
+    "hexColor": "#003399",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hilton Hotels & Resorts",
+        "multiplierLabel": "7x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Restaurants",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Supermarkets",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Gas Stations",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "amex-marriott-bonvoy-2026",
+    "name": "Marriott Bonvoy",
+    "bankName": "American Express",
+    "hexColor": "#8B1A1A",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Marriott Bonvoy Hotels",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "amex-delta-gold-2026",
+    "name": "Delta SkyMiles Gold",
+    "bankName": "American Express",
+    "hexColor": "#B8860B",
+    "annualFee": 150,
+    "categoryBonuses": [
+      {
+        "categoryName": "Flights (Direct with Delta)",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Restaurants",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Supermarkets",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Delta Stays Credit",
+        "amount": 100,
+        "cycle": "Annually",
+        "description": "每年最高 $100。依日曆年度重置。需透過 Delta Stays（delta.com）預訂預付旅館或度假租屋。"
+      }
+    ]
+  },
+  {
+    "id": "amex-delta-platinum-2026",
+    "name": "Delta SkyMiles Platinum",
+    "bankName": "American Express",
+    "hexColor": "#71797E",
+    "annualFee": 350,
+    "categoryBonuses": [
+      {
+        "categoryName": "Flights (Direct with Delta)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Hotels (Direct)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Restaurants",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Supermarkets",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Resy Dining Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10（全年 $120）。需先註冊，適用於美國 Resy 合作餐廳消費。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10（全年 $120）。需先註冊，適用於美國 Uber 或 Lyft 乘車消費。"
+      },
+      {
+        "title": "Delta Stays Credit",
+        "amount": 150,
+        "cycle": "Annually",
+        "description": "每年最高 $150。依日曆年度重置。需透過 Delta Stays（delta.com）預訂預付旅館或度假租屋。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry 申請費（$120）或 TSA PreCheck 申請費（最高 $85）。"
+      }
+    ]
+  },
+  {
+    "id": "amex-delta-reserve-2026",
+    "name": "Delta SkyMiles Reserve",
+    "bankName": "American Express",
+    "hexColor": "#1C1C1C",
+    "annualFee": 650,
+    "categoryBonuses": [
+      {
+        "categoryName": "Flights (Direct with Delta)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Resy Dining Credit",
+        "amount": 20,
+        "cycle": "Monthly",
+        "description": "每月最高 $20（全年 $240）。需先註冊，適用於美國 Resy 合作餐廳消費。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10（全年 $120）。適用於美國叫車服務（如 Uber、Lyft）消費。"
+      },
+      {
+        "title": "Delta Stays Credit",
+        "amount": 200,
+        "cycle": "Annually",
+        "description": "每年最高 $200。依日曆年度重置。需透過 Delta Stays（delta.com）預訂預付旅館或度假租屋。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry 申請費（$120）或 TSA PreCheck 申請費（最高 $85）。"
+      }
+    ]
+  },
+  {
+    "id": "amex-delta-platinum-business-2026",
+    "name": "Delta SkyMiles Platinum Business",
+    "bankName": "American Express",
+    "hexColor": "#71797E",
+    "annualFee": 350,
+    "categoryBonuses": [
+      {
+        "categoryName": "Delta Purchases",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Hotels (Direct)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Transit",
+        "multiplierLabel": "1.5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Shipping",
+        "multiplierLabel": "1.5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Delta Stays Credit",
+        "amount": 200,
+        "cycle": "Annually",
+        "description": "每年最高 $200（依日曆年度 1/1 重置）。需透過 Delta Stays（delta.com）預訂預付旅館或度假租屋。"
+      },
+      {
+        "title": "Resy Dining Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10（全年 $120）。適用於美國 Resy 合作餐廳消費。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10（全年 $120）。適用於美國叫車服務（如 Uber、Lyft）消費。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry 申請費（$120）或 TSA PreCheck 申請費（最高 $85）。"
+      }
+    ]
+  },
+  {
+    "id": "amex-delta-reserve-business-2026",
+    "name": "Delta SkyMiles Reserve Business",
+    "bankName": "American Express",
+    "hexColor": "#1C1C1C",
+    "annualFee": 650,
+    "categoryBonuses": [
+      {
+        "categoryName": "Delta Purchases",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Transit",
+        "multiplierLabel": "1.5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Shipping",
+        "multiplierLabel": "1.5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "U.S. Office Supply Stores",
+        "multiplierLabel": "1.5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Delta Stays Credit",
+        "amount": 250,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年最高 $250。需透過 Delta Stays（delta.com）預訂預付旅館或度假租屋。"
+      },
+      {
+        "title": "Resy Dining Credit",
+        "amount": 20,
+        "cycle": "Monthly",
+        "description": "每月最高 $20（全年 $240）。適用於美國 Resy 合作餐廳消費。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10（全年 $120）。適用於美國叫車服務（如 Uber、Lyft）消費。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry 申請費（$120）或 TSA PreCheck 申請費（最高 $85）。"
+      }
+    ]
+  },
+  {
+    "id": "chase-sapphire-res",
+    "name": "Chase Sapphire Reserve",
+    "bankName": "Chase",
+    "hexColor": "#115C8F",
+    "annualFee": 795,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels, Flights & Car Rentals (via Chase Travel)",
+        "multiplierLabel": "8x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Flights & Hotels (Direct)",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Travel Credit",
+        "amount": 300,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年 $300。依開卡週年日重置。任何旅遊消費（機票、飯店、租車等）自動抵扣。"
+      },
+      {
+        "title": "Dining Credit",
+        "amount": 150,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $150（全年 $300）。用於 Sapphire Reserve Exclusive Tables 指定合作餐廳。"
+      },
+      {
+        "title": "StubHub / Viagogo Credit",
+        "amount": 150,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $150（全年 $300）。透過 StubHub 或 Viagogo 購票使用，有效期至 2027 年底。"
+      },
+      {
+        "title": "DoorDash Credit",
+        "amount": 25,
+        "cycle": "Monthly",
+        "description": "每月 $25（全年 $300）。含 $5 餐廳 promo + 兩筆各 $10 外送/雜貨 promo，含免費 DashPass。有效期至 2027/12。"
+      },
+      {
+        "title": "Lyft Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月 $10（全年 $120）。Lyft 乘車 in-app credit，另享 Lyft 5x 積分。有效期至 2027/09。"
+      },
+      {
+        "title": "Peloton Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月 $10（全年 $120）。用於 Peloton 數位會員費，需直接付款（不可透過 App Store）。有效期至 2027/12。"
+      },
+      {
+        "title": "The Edit Hotel Credit",
+        "amount": 250,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $250（全年 $500）。需透過 The Edit by Chase Travel 預訂，連住 2 晚以上。含早餐、$100 住宿抵用金。"
+      },
+      {
+        "title": "Select Hotels Credit",
+        "amount": 250,
+        "cycle": "Annually",
+        "description": "每年 $250。依日曆年度（1/1）重置。適用 IHG、Montage、Pendry、Omni、Virgin 等指定品牌，需透過 Chase Travel 預付。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）或 TSA PreCheck 申請費。"
+      },
+      {
+        "title": "Apple TV+ & Apple Music",
+        "amount": 24,
+        "cycle": "Monthly",
+        "description": "每月免費（全年約 $288）。透過 Chase App 連結 Apple ID 啟用，有效期至 2027/6/22。僅限個人方案，不含家庭方案或 Apple One。"
+      }
+    ]
+  },
+  {
+    "id": "chase-sapphire-preferred-2026-v2",
+    "name": "Chase Sapphire Preferred",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Chase Travel Portal",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Online Grocery (excl. Target/Walmart/Wholesale)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Select Streaming Services",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "DoorDash Non-Rest. Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月 $10。限 DoorDash 非餐廳訂單（如超市、便利店）。需於 2027/12/31 前啟用。"
+      },
+      {
+        "title": "Chase Travel Hotel Credit",
+        "amount": 50,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年 $50。依開卡週年日重置。需透過 Chase Travel 預訂酒店。"
+      },
+      {
+        "title": "DashPass Membership",
+        "isIgnored": true,
+        "amount": 120,
+        "cycle": "Annually",
+        "description": "價值 $120/年。免運費福利。需於 2027/12/31 前啟用。"
+      }
+    ]
+  },
+  {
+    "id": "chase-ink-unlimited-2026",
+    "name": "Ink Business Unlimited",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "1.5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "chase-ink-cash-2026",
+    "name": "Ink Business Cash",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Office Supply Stores",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Internet, Cable & Phone",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "chase-ink-preferred-2026",
+    "name": "Ink Business Preferred",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Shipping",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Internet, Cable & Phone",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Social Media & Search Advertising",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "DoorDash Non-Restaurant Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月 $10。限 DoorDash 非餐廳訂單（如超市、便利店）。需先啟用 DashPass，有效期至 2027/12/31。"
+      }
+    ]
+  },
+  {
+    "id": "chase-ink-premier-2026",
+    "name": "Ink Business Premier",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 195,
+    "categoryBonuses": [
+      {
+        "categoryName": "Chase Travel Portal",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Purchases $5,000 or More",
+        "multiplierLabel": "2.5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "chase-ritz-carlton-2026",
+    "name": "Ritz-Carlton",
+    "bankName": "Chase",
+    "hexColor": "#003366",
+    "annualFee": 450,
+    "categoryBonuses": [
+      {
+        "categoryName": "Marriott Hotels",
+        "multiplierLabel": "6x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Car Rentals",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Airfare (Direct)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Annual Travel Credit",
+        "amount": 300,
+        "cycle": "Annually",
+        "description": "每年 $300。依日曆年度（1/1）重置。僅限航空公司附加費（行李費、貴賓室一日票、座位升艙費、機上餐飲/Wi-Fi 等），不含機票購買。需致電卡背 J.P. Morgan Priority Services 申請報銷，非自動扣抵。注意：年底開卡可在短期內連用兩年額度。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）申請費。不單獨涵蓋 TSA PreCheck，但 Global Entry 已內含 TSA PreCheck 資格。"
+      }
+    ]
+  },
+  {
+    "id": "chase-ihg-premier-2026",
+    "name": "IHG One Rewards Premier",
+    "bankName": "Chase",
+    "hexColor": "#00354E",
+    "annualFee": 99,
+    "categoryBonuses": [
+      {
+        "categoryName": "IHG Hotels & Resorts",
+        "multiplierLabel": "26x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "United TravelBank Cash",
+        "amount": 25,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $25（全年 $50）。1月初及7月初各存入一次，需事先至 ihg.com/united 綁定 MileagePlus 帳號。僅限 United.com 訂購 United 航班使用，存入後有效期約半年。",
+        "isIgnored": true
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）、TSA PreCheck（$85）或 NEXUS（$50）申請費。可為家人申請。"
+      }
+    ]
+  },
+  {
+    "id": "chase-ihg-premier-business-2026",
+    "name": "IHG One Rewards Premier Business",
+    "bankName": "Chase",
+    "hexColor": "#00354E",
+    "annualFee": 99,
+    "categoryBonuses": [
+      {
+        "categoryName": "IHG Hotels & Resorts",
+        "multiplierLabel": "26x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Social Media & Search Advertising",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Office Supply Stores",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "United TravelBank Cash",
+        "amount": 25,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $25（全年 $50）。1月初及7月初各存入一次；1月存入者7月15日到期，7月存入者次年1月15日到期。需綁定 MileagePlus 帳號，僅限 United 航班。",
+        "isIgnored": true
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）、TSA PreCheck（$85）或 NEXUS（$50）申請費。"
+      }
+    ]
+  },
+  {
+    "id": "chase-united-quest-2026",
+    "name": "United Quest",
+    "bankName": "Chase",
+    "hexColor": "#005DAA",
+    "annualFee": 350,
+    "categoryBonuses": [
+      {
+        "categoryName": "United Purchases",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Renowned Hotels (via Chase Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Select Streaming Services",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "United TravelBank Credit",
+        "amount": 200,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年 $200。依開卡週年日重置。自動存入 United TravelBank，僅可用於 United.com 訂購 United/United Express 航班。"
+      },
+      {
+        "title": "JSX Flight Credit",
+        "amount": 150,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年最高 $150。依開卡週年日重置。需直接於 JSX 官網以此卡購票（半私人噴射機服務）。"
+      },
+      {
+        "title": "Renowned Hotels Credit",
+        "amount": 150,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年最高 $150。依開卡週年日重置。需透過 Chase Travel 的 Renowned Hotels & Resorts for United Cardmembers 門戶預付訂房，最少住一晚。不可與其他優惠合併。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 8,
+        "cycle": "Monthly",
+        "description": "每月最高 $8（12月最高 $12，全年合計 $100）。適用 Uber、Lyft 等叫車服務。每年1月需重新登錄啟用，依日曆年度重置。"
+      },
+      {
+        "title": "Instacart Credit",
+        "amount": 15,
+        "cycle": "Monthly",
+        "description": "每月最高 $15（分兩筆：$10 + $5）。需直接於 Instacart 消費。此福利有效期至 2027/12/31。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）、TSA PreCheck（$85）或 NEXUS（$50）申請費。"
+      }
+    ]
+  },
+  {
+    "id": "chase-united-explorer-2026",
+    "name": "United Explorer",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 150,
+    "categoryBonuses": [
+      {
+        "categoryName": "United Purchases",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Hotel Stays",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Instacart Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最多 $10 的 Instacart 消費回饋（需登記）。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 5,
+        "cycle": "Monthly",
+        "description": "每月最多 $5 的叫車服務（如 Uber、Lyft）消費回饋（需登記）。"
+      },
+      {
+        "title": "United Hotels Credit",
+        "amount": 100,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年最多 $100 的 United Hotels 預付訂房回饋（每次最多 $50，最多兩次）。"
+      },
+      {
+        "title": "JSX Flights Credit",
+        "amount": 100,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年最多 $100 的 JSX 包機購票回饋。"
+      },
+      {
+        "title": "Avis/Budget Rental Credit",
+        "amount": 50,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年最多 $50 的 Avis 或 Budget 租車回饋（每次最多 $25，最多兩次）。"
+      },
+      {
+        "title": "Global Entry / TSA PreCheck Credit",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每四年最多 $120 的 Global Entry、TSA PreCheck 或 NEXUS 申請費用回饋。"
+      }
+    ]
+  },
+  {
+    "id": "chase-united-club-infinite-2026",
+    "name": "United Club Infinite",
+    "bankName": "Chase",
+    "hexColor": "#003087",
+    "annualFee": 695,
+    "categoryBonuses": [
+      {
+        "categoryName": "United Purchases",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Renowned Hotels (via Chase Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Instacart Credit",
+        "amount": 20,
+        "cycle": "Monthly",
+        "description": "每月最多 $20 的 Instacart 消費回饋（每月兩筆各 $10，需登記）。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 12,
+        "cycle": "Monthly",
+        "description": "每月最多 $12 的叫車服務（如 Uber、Lyft）消費回饋（12 月為 $18，全年合計最多 $150）。"
+      },
+      {
+        "title": "Renowned Hotels Credit",
+        "amount": 200,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年最多 $200 的 Renowned Hotels & Resorts 預付訂房回饋。"
+      },
+      {
+        "title": "JSX Flights Credit",
+        "amount": 200,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年最多 $200 的 JSX 包機購票回饋。"
+      },
+      {
+        "title": "Avis/Budget Rental Credit",
+        "amount": 100,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年最多 $100 的 Avis 或 Budget 租車回饋（每次最多 $50，最多兩次）。"
+      },
+      {
+        "title": "Global Entry / TSA PreCheck Credit",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每四年最多 $120 的 Global Entry、TSA PreCheck 或 NEXUS 申請費用回饋。"
+      }
+    ]
+  },
+  {
+    "id": "chase-world-of-hyatt-2026",
+    "name": "World of Hyatt",
+    "bankName": "Chase",
+    "hexColor": "#1A1A2E",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hyatt Hotels",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Airline Tickets",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Transit & Commuting",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "chase-marriott-bonvoy-boundless-2026",
+    "name": "Marriott Bonvoy Boundless",
+    "bankName": "Chase",
+    "hexColor": "#8B1A1A",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Marriott Bonvoy Hotels",
+        "multiplierLabel": "6x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Grocery Stores",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "DoorDash Quarterly Credit",
+        "amount": 10,
+        "cycle": "Quarterly",
+        "description": "每季度在 DoorDash 非餐廳訂單可享最高 $10 折扣（需為 DashPass 會員，有效期至 2027 年 12 月 31 日）。"
+      },
+      {
+        "title": "Airline Credit (2026 Only)",
+        "amount": 50,
+        "cycle": "Semi-Annually",
+        "description": "2026 限定福利：上半年（1–6 月）於航空公司消費滿 $250 可獲 $50 回饋；下半年（7–12 月）再滿 $250 可再獲 $50。全年合計最高 $100。需直接向航空公司購票，有效期至 2026/12/31。"
+      }
+    ]
+  },
+  {
+    "id": "chase-marriott-bonvoy-bold-2026",
+    "name": "Marriott Bonvoy Bold",
+    "bankName": "Chase",
+    "hexColor": "#8B1A1A",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Marriott Bonvoy Hotels",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Grocery Stores",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Rideshare & Food Delivery",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Streaming, Internet, Cable & Phone",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "chase-southwest-plus-2026",
+    "name": "Southwest Rapid Rewards Plus",
+    "bankName": "Chase",
+    "hexColor": "#304CB2",
+    "annualFee": 99,
+    "categoryBonuses": [
+      {
+        "categoryName": "Southwest Airlines",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Grocery Stores",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "chase-southwest-premier-2026",
+    "name": "Southwest Rapid Rewards Premier",
+    "bankName": "Chase",
+    "hexColor": "#304CB2",
+    "annualFee": 149,
+    "categoryBonuses": [
+      {
+        "categoryName": "Southwest Airlines",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Grocery Stores",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "chase-southwest-priority-2026",
+    "name": "Southwest Rapid Rewards Priority",
+    "bankName": "Chase",
+    "hexColor": "#304CB2",
+    "annualFee": 229,
+    "categoryBonuses": [
+      {
+        "categoryName": "Southwest Airlines",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Southwest Travel Credit",
+        "amount": 75,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年 $75 Southwest 旅遊消費回饋，依開卡週年日重置。自動抵扣 Southwest 購買（機票、Getaways 等），無需另行登錄。"
+      }
+    ]
+  },
+  {
+    "id": "chase-amazon-prime-visa-2026",
+    "name": "Amazon Prime Visa",
+    "bankName": "Chase",
+    "hexColor": "#FF9900",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Amazon.com",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Whole Foods Market",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Chase Travel Portal",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Transit",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "capital-one-venture-x-business-2026",
+    "name": "Venture X Business",
+    "bankName": "Capital One",
+    "hexColor": "#002663",
+    "annualFee": 395,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels & Rental Cars (via Capital One Travel)",
+        "multiplierLabel": "10x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Flights & Vacation Rentals (via Capital One Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Travel Portal Credit",
+        "amount": 300,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年 $300。依開卡週年日重置。需透過 Capital One Business Travel 門戶預訂（機票、酒店、租車等）。未用完不累計。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）、TSA PreCheck（$85）或 NEXUS（$50）申請費。需以此卡付費。"
+      }
+    ]
+  },
+  {
+    "id": "capital-one-venture-x-2026",
+    "name": "Venture X",
+    "bankName": "Capital One",
+    "hexColor": "#002663",
+    "annualFee": 395,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels & Rental Cars (via Capital One Travel)",
+        "multiplierLabel": "10x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Flights & Vacation Rentals (via Capital One Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Travel Portal Credit",
+        "amount": 300,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年 $300。依開卡週年日重置。需透過 Capital One Travel 預訂（機票、酒店、租車）。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次申請費（最高 $120）。"
+      }
+    ]
+  },
+  {
+    "id": "capital-one-venture-2026",
+    "name": "Venture",
+    "bankName": "Capital One",
+    "hexColor": "#002663",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels, Vacation Rentals & Rental Cars (via Capital One Travel)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Capital One Entertainment",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）或 TSA PreCheck 申請費。需以此卡付費，每帳戶限一次。"
+      }
+    ]
+  },
+  {
+    "id": "capital-one-savor-2026",
+    "name": "Savor Cash Rewards",
+    "bankName": "Capital One",
+    "hexColor": "#002663",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Grocery Stores",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Entertainment",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Streaming Services",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Capital One Travel (Hotels & Rentals)",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Capital One Entertainment",
+        "multiplierLabel": "8%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "capital-one-savor-one-2026",
+    "name": "SavorOne Cash Rewards",
+    "bankName": "Capital One",
+    "hexColor": "#002663",
+    "annualFee": 39,
+    "categoryBonuses": [
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Grocery Stores",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Entertainment",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Streaming Services",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Capital One Travel (Hotels & Rentals)",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Capital One Entertainment",
+        "multiplierLabel": "8%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "citi-prestige-2026",
+    "name": "Citi Prestige",
+    "bankName": "Citi",
+    "hexColor": "#003B70",
+    "annualFee": 495,
+    "categoryBonuses": [
+      {
+        "categoryName": "Airlines",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Restaurants",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Hotels",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Cruises",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Travel Credit",
+        "amount": 250,
+        "cycle": "Annually",
+        "description": "每年 $250。依日曆年度（1月1日）重置。所有標記為「旅遊」類別的消費自動抵扣，包含機票、飯店、租車、郵輪、交通等，無需登錄。"
+      },
+      {
+        "title": "Citigold Banking Credit",
+        "amount": 145,
+        "cycle": "Annually",
+        "description": "每年 $145 年費抵扣。需持有 Citigold 銀行身分（Citi 存款、退休金及投資帳戶合計平均月餘額達 $200,000）。非 Citigold 客戶不適用。",
+        "isIgnored": true
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）或 TSA PreCheck 申請費。自動報銷，無需申請。"
+      }
+    ]
+  },
+  {
+    "id": "citi-strata-premier-2026",
+    "name": "Citi Strata Premier",
+    "bankName": "Citi",
+    "hexColor": "#003B70",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels (via Citi Travel)",
+        "multiplierLabel": "10x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Car Rentals (via Citi Travel)",
+        "multiplierLabel": "10x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Attractions (via Citi Travel)",
+        "multiplierLabel": "10x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Air Travel",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Hotels",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Restaurants",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Supermarkets",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas & EV Charging",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Annual Hotel Credit",
+        "amount": 100,
+        "cycle": "Annually",
+        "description": "每年於 CitiTravel.com 預訂單筆 $500 以上的飯店住宿可享 $100 折扣（每日曆年一次，不含稅費）。"
+      }
+    ]
+  },
+  {
+    "id": "citi-double-cash-2026",
+    "name": "Citi Double Cash",
+    "bankName": "Citi",
+    "hexColor": "#003B70",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels (via Citi Travel)",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Car Rentals (via Citi Travel)",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Attractions (via Citi Travel)",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "citi-custom-cash-2026",
+    "name": "Citi Custom Cash",
+    "bankName": "Citi",
+    "hexColor": "#003B70",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Top Eligible Category (up to $500/cycle)",
+        "multiplierLabel": "5%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "citi-aadvantage-platinum-select-2026",
+    "name": "Citi AAdvantage Platinum Select",
+    "bankName": "Citi",
+    "hexColor": "#003B70",
+    "annualFee": 99,
+    "categoryBonuses": [
+      {
+        "categoryName": "American Airlines Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Restaurants",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "citi-aadvantage-executive-2026",
+    "name": "Citi AAdvantage Executive",
+    "bankName": "Citi",
+    "hexColor": "#003B70",
+    "annualFee": 595,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels & Car Rentals (via AA.com)",
+        "multiplierLabel": "10x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "American Airlines Purchases",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Global Entry / TSA PreCheck Credit",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每四年最高可獲 $120 報帳抵用金，用於支付 Global Entry 或 TSA PreCheck 申請費用。"
+      },
+      {
+        "title": "Avis / Budget Car Rental Credit",
+        "amount": 120,
+        "cycle": "Annually",
+        "description": "每日曆年於 avis.com 或 budget.com 預付訂車，最高可獲 $120 報帳抵用金。"
+      },
+      {
+        "title": "Lyft Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月搭乘 3 趟符合資格的 Lyft 後，可獲 $10 報帳抵用金，全年最高 $120。"
+      },
+      {
+        "title": "Grubhub Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每帳單週期於 Grubhub 消費最高可獲 $10 報帳抵用金，每 12 個帳單週期最高 $120。"
+      }
+    ]
+  },
+  {
+    "id": "boa-premium-rewards-elite-2026",
+    "name": "Premium Rewards Elite",
+    "bankName": "Bank of America",
+    "hexColor": "#E31837",
+    "annualFee": 550,
+    "categoryBonuses": [
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1.5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Airline Incidental Credit",
+        "amount": 300,
+        "cycle": "Annually",
+        "description": "每年 $300。依日曆年度（1/1）重置。適用於美國航空公司的附加費（行李費、座位升艙費、機上餐飲/娛樂等），不含機票本身。不適用 Allegiant、Spirit、Sun Country。"
+      },
+      {
+        "title": "Lifestyle Credit",
+        "amount": 150,
+        "cycle": "Annually",
+        "description": "每年 $150。依日曆年度（1/1）重置。適用於叫車（Uber、Lyft）、外送、影音串流及健身訂閱等消費。商家需以正確 MCC 碼傳送，部分商家可能不符資格。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）或 TSA PreCheck（$85）申請費。"
+      }
+    ]
+  },
+  {
+    "id": "boa-premium-rewards-2026",
+    "name": "Premium Rewards",
+    "bankName": "Bank of America",
+    "hexColor": "#E31837",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1.5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Airline Incidental Credit",
+        "amount": 100,
+        "cycle": "Annually",
+        "description": "每年 $100。依日曆年度（1/1）重置。適用於美國航空公司附加費（行李費、座位升艙費、機上餐飲等），不含機票本身。不適用 Allegiant、Spirit、Sun Country。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 100,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry 或 TSA PreCheck 申請費（最高 $100）。需以此卡付費。"
+      }
+    ]
+  },
+  {
+    "id": "usbank-altitude-reserve-2026",
+    "name": "Altitude Reserve",
+    "bankName": "U.S. Bank",
+    "hexColor": "#0061A0",
+    "annualFee": 400,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels & Car Rentals (via US Bank Travel Center)",
+        "multiplierLabel": "10x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Flights (via US Bank Travel Center)",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel & Mobile Wallet (Apple/Google Pay, up to $5k/mo)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Annual Travel Credit",
+        "amount": 325,
+        "cycle": "Annually",
+        "description": "每年 $325。依日曆年度（1/1）重置。2025年12月後需透過 U.S. Bank Travel Center（Booking.com）預訂才適用。此卡已停止新申請（2024年11月關閉）。"
+      },
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 100,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry 或 TSA PreCheck 申請費（最高 $100）。需以此卡付費。"
+      }
+    ]
+  },
+  {
+    "id": "barclays-aa-aviator-red-2026",
+    "name": "AAdvantage Aviator Red",
+    "bankName": "Barclays",
+    "hexColor": "#C8102E",
+    "annualFee": 99,
+    "categoryBonuses": [
+      {
+        "categoryName": "American Airlines Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Inflight Wi-Fi Credit",
+        "amount": 25,
+        "cycle": "Annually (Anniversary)",
+        "description": "每年最高 $25。依開卡週年日重置。僅限 American Airlines 營運航班上購買 Wi-Fi 使用。注意：此卡已停止新申請（2025年關閉），現有持卡人將於 2026年4月26日轉換至 Citi AAdvantage Platinum Select。"
+      }
+    ]
+  },
+  {
+    "id": "wells-fargo-active-cash-2026",
+    "name": "Active Cash",
+    "bankName": "Wells Fargo",
+    "hexColor": "#CD1409",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "wells-fargo-autograph-2026",
+    "name": "Autograph",
+    "bankName": "Wells Fargo",
+    "hexColor": "#CD1409",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Restaurants",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel & Transit",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas & EV Charging",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Streaming Services",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Select Phone Plans",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "wells-fargo-autograph-journey-2026",
+    "name": "Autograph Journey",
+    "bankName": "Wells Fargo",
+    "hexColor": "#CD1409",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Hotels",
+        "multiplierLabel": "5x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Airlines",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Other Travel & Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Airline Credit",
+        "amount": 50,
+        "cycle": "Annually",
+        "description": "每年 $50 航空消費回饋，需單筆消費滿 $50 即自動抵扣。依日曆年度重置。"
+      }
+    ]
+  },
+  {
+    "id": "bilt-blue-2026",
+    "name": "Bilt Blue",
+    "bankName": "Bilt",
+    "hexColor": "#2563EB",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "All Purchases",
+        "multiplierLabel": "1x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
+    "id": "bilt-obsidian-2026",
+    "name": "Bilt Obsidian",
+    "bankName": "Bilt",
+    "hexColor": "#1A1A1A",
+    "annualFee": 95,
+    "categoryBonuses": [
+      {
+        "categoryName": "Dining OR U.S. Grocery Stores (choose one/yr, grocery up to $25k)",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Rent",
+        "multiplierLabel": "1x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Hotel Credit",
+        "amount": 50,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $50 飯店住宿折抵（全年合計 $100）。適用於 Bilt Travel Portal 訂購的飯店，依日曆年上下半年重置（1 月、7 月）。"
+      }
+    ]
+  },
+  {
+    "id": "bilt-palladium-2026",
+    "name": "Bilt Palladium",
+    "bankName": "Bilt",
+    "hexColor": "#94A3B8",
+    "annualFee": 495,
+    "categoryBonuses": [
+      {
+        "categoryName": "Everyday Purchases",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Rent",
+        "multiplierLabel": "1x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": [
+      {
+        "title": "Hotel Credit",
+        "amount": 200,
+        "cycle": "Semi-Annually",
+        "description": "每半年 $200 飯店住宿折抵（全年合計 $400）。適用於 Bilt Travel Portal 訂購的飯店，依日曆年上下半年重置（1 月、7 月）。"
+      },
+      {
+        "title": "Bilt Cash Credit",
+        "amount": 200,
+        "cycle": "Annually",
+        "description": "每年 $200 Bilt Cash 額度，可用於租金抵扣、旅遊或轉換至合作夥伴計畫。依日曆年度重置。"
+      }
+    ]
+  }
+]
