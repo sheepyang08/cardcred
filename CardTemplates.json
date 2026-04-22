@@ -2449,6 +2449,69 @@
     ]
   },
   {
+    "id": "boa-atmos-ascent-2026",
+    "name": "Atmos Rewards Ascent Visa Signature",
+    "bankName": "Bank of America",
+    "hexColor": "#01426A",
+    "annualFee": 95,
+    "suggestedBenefits": [],
+    "categoryBonuses": [
+      {
+        "categoryName": "Alaska & Hawaiian Airlines",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Gas & EV Charging",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Cable & Streaming",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Transit & Rideshare",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ]
+  },
+  {
+    "id": "boa-atmos-summit-2026",
+    "name": "Atmos Rewards Summit Visa Infinite",
+    "bankName": "Bank of America",
+    "hexColor": "#1A1A2E",
+    "annualFee": 395,
+    "suggestedBenefits": [
+      {
+        "title": "Global Entry / TSA Pre",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年報銷一次 Global Entry（$120）或 TSA PreCheck 申請費。需以此卡付費。"
+      }
+    ],
+    "categoryBonuses": [
+      {
+        "categoryName": "Alaska & Hawaiian Airlines",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ]
+  },
+  {
     "id": "usbank-altitude-reserve-2026",
     "name": "Altitude Reserve",
     "bankName": "U.S. Bank",
