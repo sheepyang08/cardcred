@@ -2454,7 +2454,14 @@
     "bankName": "Bank of America",
     "hexColor": "#01426A",
     "annualFee": 95,
-    "suggestedBenefits": [],
+    "suggestedBenefits": [
+      {
+        "title": "Companion Fare",
+        "amount": 99,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年日可獲得 $99 同行機票優惠（另加稅費，最低 $23）。需在前一週年年度內消費滿 $6,000 才能解鎖。可用於 Alaska Airlines 或 Hawaiian Airlines 同一航班的第二張機票。"
+      }
+    ],
     "categoryBonuses": [
       {
         "categoryName": "Alaska & Hawaiian Airlines",
