@@ -2361,6 +2361,52 @@
     ]
   },
   {
+    "id": "citi-costco-anywhere-visa-2026",
+    "name": "Costco Anywhere Visa",
+    "bankName": "Citi",
+    "hexColor": "#003B70",
+    "annualFee": 0,
+    "categoryBonuses": [
+      {
+        "categoryName": "Gas Stations (up to $7,000/year combined)",
+        "multiplierLabel": "4%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "EV Charging (up to $7,000/year combined with Gas)",
+        "multiplierLabel": "4%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Travel",
+        "multiplierLabel": "3%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Costco & Costco.com",
+        "multiplierLabel": "2%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
+        "multiplierLabel": "1%",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      }
+    ],
+    "suggestedBenefits": []
+  },
+  {
     "id": "boa-premium-rewards-elite-2026",
     "name": "Premium Rewards Elite",
     "bankName": "Bank of America",
