@@ -129,6 +129,12 @@
         "multiplierLabel": "5%",
         "quarterNumber": 2,
         "quarterYear": 2026
+      },
+      {
+        "categoryName": "Digital Wallets (Apple Pay, Google Pay, Samsung Pay)",
+        "multiplierLabel": "5%",
+        "quarterNumber": 3,
+        "quarterYear": 2026
       }
     ]
   },
@@ -175,7 +181,7 @@
         "title": "Digital Entertainment",
         "amount": 25,
         "cycle": "Monthly",
-        "description": "每月 $25 (全年 $300)。含 YouTube Premium, Disney+, Hulu, NYT, WSJ 等。"
+        "description": "每月 $25 (全年 $300)。含 Disney+、Hulu、ESPN、YouTube Premium、YouTube TV、Paramount+、Peacock、NYT、WSJ 等。"
       },
       {
         "title": "Uber Cash",
@@ -353,7 +359,7 @@
         "title": "Dining Credit (Grubhub/etc)",
         "amount": 10,
         "cycle": "Monthly",
-        "description": "每月 $10。適用於 Grubhub, The Cheesecake Factory, Goldbelly, Wine.com, Five Guys。"
+        "description": "每月 $10。適用於 Grubhub、Buffalo Wild Wings、The Cheesecake Factory、Five Guys、Wonder（自 2026/7/1 起，Goldbelly 及 Wine.com 不再適用）。"
       },
       {
         "title": "Uber Cash (Gold)",
@@ -1044,13 +1050,13 @@
         "title": "The Edit Hotel Credit",
         "amount": 250,
         "cycle": "Semi-Annually",
-        "description": "每半年 $250（全年 $500）。需透過 The Edit by Chase Travel 預訂，連住 2 晚以上。含早餐、$100 住宿抵用金。"
+        "description": "每半年 $250（全年 $500）。2026 起兩筆 $250 均可於同一半年內使用，無須分上下半年。需透過 The Edit by Chase Travel 預訂，連住 2 晚以上。含早餐、$100 住宿抵用金。"
       },
       {
         "title": "Select Hotels Credit",
         "amount": 250,
         "cycle": "Annually",
-        "description": "每年 $250。依日曆年度（1/1）重置。適用 IHG、Montage、Pendry、Omni、Virgin 等指定品牌，需透過 Chase Travel 預付。"
+        "description": "2026 限定福利：全年最高 $250（1/1/2026–12/31/2026）。需透過 Chase Travel 預付預訂 IHG、Montage、Pendry、Omni、Virgin 等指定品牌，連住 2 晚以上。"
       },
       {
         "title": "Global Entry / TSA Pre",
@@ -1658,6 +1664,12 @@
       },
       {
         "categoryName": "Transit & Commuting",
+        "multiplierLabel": "2x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Fitness Clubs & Gym Memberships",
         "multiplierLabel": "2x",
         "quarterNumber": 0,
         "quarterYear": 0
@@ -2561,6 +2573,12 @@
         "multiplierLabel": "3x",
         "quarterNumber": 0,
         "quarterYear": 0
+      },
+      {
+        "categoryName": "Foreign Purchases",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
       }
     ]
   },
@@ -2772,7 +2790,7 @@
         "title": "Hotel Credit",
         "amount": 50,
         "cycle": "Semi-Annually",
-        "description": "每半年 $50 飯店住宿折抵（全年合計 $100）。適用於 Bilt Travel Portal 訂購的飯店，依日曆年上下半年重置（1 月、7 月）。"
+        "description": "每半年 $50 飯店住宿折抵（全年合計 $100）。需透過 Bilt Travel Portal 訂購，且需連住至少 2 晚。依日曆年上下半年重置（1 月、7 月）。"
       }
     ]
   },
@@ -2801,7 +2819,7 @@
         "title": "Hotel Credit",
         "amount": 200,
         "cycle": "Semi-Annually",
-        "description": "每半年 $200 飯店住宿折抵（全年合計 $400）。適用於 Bilt Travel Portal 訂購的飯店，依日曆年上下半年重置（1 月、7 月）。"
+        "description": "每半年 $200 飯店住宿折抵（全年合計 $400）。需透過 Bilt Travel Portal 訂購，且需連住至少 2 晚。依日曆年上下半年重置（1 月、7 月）。"
       },
       {
         "title": "Bilt Cash Credit",
