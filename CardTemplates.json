@@ -199,7 +199,7 @@
         "title": "Saks Fifth Avenue",
         "amount": 50,
         "cycle": "Semi-Annually",
-        "description": "每半年 $50（全年 $100）。上半年 1-6 月，下半年 7-12 月。注意：此福利將於 2026 年 7 月 1 日終止，下半年額度將不再發放。"
+        "description": "每半年 $50（全年 $100）。注意：此福利已確認於 2026 年 7 月 1 日終止（Saks 申請破產）。上半年 1-6 月的 $50 額度仍有效，請於 2026/6/30 前使用；下半年 7-12 月的額度將不再發放。"
       },
       {
         "title": "Oura Ring Credit",
@@ -321,6 +321,12 @@
         "description": "每年 $209。依日曆年度（1/1）重置。全額報銷 CLEAR+ 年費。"
       },
       {
+        "title": "ChatGPT Business Credit",
+        "amount": 300,
+        "cycle": "Annually",
+        "description": "每年 $300。依日曆年度（1/1）重置。自 2026/5/12 起生效。適用於 ChatGPT Business 訂閱購買，需事先登錄。"
+      },
+      {
         "title": "Global Entry / TSA Pre",
         "amount": 120,
         "cycle": "Every 4 Years",
@@ -350,6 +356,12 @@
       {
         "categoryName": "Flights (Direct with Airlines or Amex Travel)",
         "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Prepaid Hotels (via Amex Travel)",
+        "multiplierLabel": "5x",
         "quarterNumber": 0,
         "quarterYear": 0
       }
@@ -412,7 +424,7 @@
         "title": "Disney Bundle Credit",
         "amount": 7,
         "cycle": "Monthly",
-        "description": "每月最高 $7 回饋（全年最高 $84）。需於 DisneyPlus.com、Hulu.com 或 Stream.ESPN.com 訂閱，需事先登錄。訂閱費須達 $9.99 以上方可觸發。"
+        "description": "每月最高 $7 回饋（全年最高 $84）。需於 DisneyPlus.com、Hulu.com 或 Stream.ESPN.com 訂閱，需事先登錄。無最低消費門檻。"
       },
       {
         "title": "Home Chef Credit",
@@ -453,7 +465,7 @@
         "title": "Disney Bundle Credit",
         "amount": 10,
         "cycle": "Monthly",
-        "description": "每月最高 $10 回饋（全年最高 $120）。需於 DisneyPlus.com、Hulu.com 或 Stream.ESPN.com 訂閱，需事先登錄。此福利實際上可覆蓋 $95 年費。"
+        "description": "每月最高 $10 回饋（全年最高 $120）。需於 DisneyPlus.com、Hulu.com 或 Stream.ESPN.com 訂閱，需事先登錄。無最低消費門檻。此福利實際上可覆蓋 $95 年費。"
       },
       {
         "title": "Home Chef Credit",
@@ -723,7 +735,7 @@
     "categoryBonuses": [
       {
         "categoryName": "Marriott Bonvoy Hotels",
-        "multiplierLabel": "5x",
+        "multiplierLabel": "6x",
         "quarterNumber": 0,
         "quarterYear": 0
       }
@@ -744,7 +756,7 @@
         "quarterYear": 0
       },
       {
-        "categoryName": "U.S. Restaurants",
+        "categoryName": "Restaurants Worldwide",
         "multiplierLabel": "2x",
         "quarterNumber": 0,
         "quarterYear": 0
@@ -1532,7 +1544,7 @@
         "title": "Instacart Credit",
         "amount": 10,
         "cycle": "Monthly",
-        "description": "每月最多 $10 的 Instacart 消費回饋（需登記）。"
+        "description": "每月最多 $10 的 Instacart 消費回饋（需登記）。有效期至 2027/12/31。"
       },
       {
         "title": "Rideshare Credit",
@@ -1976,6 +1988,12 @@
         "description": "每年 $300。依開卡週年日重置。需透過 Capital One Travel 預訂（機票、酒店、租車）。"
       },
       {
+        "title": "Anniversary Bonus Miles",
+        "amount": 100,
+        "cycle": "Annually (Anniversary)",
+        "description": "每週年獲得 10,000 獎勵里程（約等值 $100 旅行費用）。"
+      },
+      {
         "title": "Global Entry / TSA Pre",
         "amount": 120,
         "cycle": "Every 4 Years",
@@ -1999,12 +2017,6 @@
       {
         "categoryName": "All Purchases",
         "multiplierLabel": "2x",
-        "quarterNumber": 0,
-        "quarterYear": 0
-      },
-      {
-        "categoryName": "Capital One Entertainment",
-        "multiplierLabel": "5x",
         "quarterNumber": 0,
         "quarterYear": 0
       }
@@ -2075,7 +2087,7 @@
     "name": "SavorOne Cash Rewards",
     "bankName": "Capital One",
     "hexColor": "#002663",
-    "annualFee": 39,
+    "annualFee": 0,
     "categoryBonuses": [
       {
         "categoryName": "Dining",
@@ -2171,8 +2183,8 @@
       {
         "title": "Global Entry / TSA Pre",
         "amount": 120,
-        "cycle": "Every 4 Years",
-        "description": "每 4 年報銷一次 Global Entry（$120）或 TSA PreCheck 申請費。自動報銷，無需申請。"
+        "cycle": "Every 5 Years",
+        "description": "每 5 年報銷一次 Global Entry（$120）或 TSA PreCheck 申請費（自 2024/10/1 起改為每 5 年）。自動報銷，無需申請。"
       }
     ]
   },
@@ -2380,13 +2392,13 @@
     "annualFee": 0,
     "categoryBonuses": [
       {
-        "categoryName": "Gas Stations (up to $7,000/year combined)",
-        "multiplierLabel": "4%",
+        "categoryName": "Gas at Costco (up to $7,000/year combined)",
+        "multiplierLabel": "5%",
         "quarterNumber": 0,
         "quarterYear": 0
       },
       {
-        "categoryName": "EV Charging (up to $7,000/year combined)",
+        "categoryName": "Gas Stations & EV Charging (up to $7,000/year combined)",
         "multiplierLabel": "4%",
         "quarterNumber": 0,
         "quarterYear": 0
@@ -2676,7 +2688,13 @@
         "quarterYear": 0
       },
       {
-        "categoryName": "Travel & Transit",
+        "categoryName": "Travel",
+        "multiplierLabel": "3x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Transit",
         "multiplierLabel": "3x",
         "quarterNumber": 0,
         "quarterYear": 0
