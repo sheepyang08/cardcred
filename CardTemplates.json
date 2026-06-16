@@ -50,6 +50,30 @@
         "quarterYear": 2026
       },
       {
+        "categoryName": "Gas Stations & EV Charging",
+        "multiplierLabel": "5%",
+        "quarterNumber": 3,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Public Transit",
+        "multiplierLabel": "5%",
+        "quarterNumber": 3,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Select Live Entertainment",
+        "multiplierLabel": "5%",
+        "quarterNumber": 3,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "United Way",
+        "multiplierLabel": "5%",
+        "quarterNumber": 3,
+        "quarterYear": 2026
+      },
+      {
         "categoryName": "Chase Travel Portal",
         "multiplierLabel": "5%",
         "quarterNumber": 0,
@@ -131,7 +155,19 @@
         "quarterYear": 2026
       },
       {
-        "categoryName": "Digital Wallets (Apple Pay, Google Pay, Samsung Pay)",
+        "categoryName": "Gas Stations",
+        "multiplierLabel": "5%",
+        "quarterNumber": 3,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Transportation",
+        "multiplierLabel": "5%",
+        "quarterNumber": 3,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Drug Stores",
         "multiplierLabel": "5%",
         "quarterNumber": 3,
         "quarterYear": 2026
