@@ -217,7 +217,7 @@
         "title": "Digital Entertainment",
         "amount": 25,
         "cycle": "Monthly",
-        "description": "每月 $25 (全年 $300)。含 Disney+、Hulu、ESPN、YouTube Premium、YouTube TV、Paramount+、Peacock、NYT、WSJ 等。"
+        "description": "每月 $25 (全年 $300)。含 Disney+、Hulu、ESPN、YouTube Premium、YouTube TV、Paramount+、Peacock（自 2026/8/1 起，僅限直接向 Peacock 購買的獨立方案，套餐訂閱及附加服務不再適用）、NYT、WSJ 等。"
       },
       {
         "title": "Uber Cash",
@@ -810,6 +810,12 @@
         "amount": 100,
         "cycle": "Annually",
         "description": "每年最高 $100。依日曆年度重置。需透過 Delta Stays（delta.com）預訂預付旅館或度假租屋。"
+      },
+      {
+        "title": "Rideshare Credit",
+        "amount": 10,
+        "cycle": "Monthly",
+        "description": "每月最高 $10（全年 $120）。需先登錄，適用於美國 Uber、Lyft 等叫車消費。自 2026/6/4 起新增；首年開卡後需待下次續卡方可啟用。"
       }
     ]
   },
@@ -1799,7 +1805,8 @@
         "title": "Airline Credit (2026 Only)",
         "amount": 50,
         "cycle": "Semi-Annually",
-        "description": "2026 限定福利：上半年（1–6 月）於航空公司消費滿 $250 可獲 $50 回饋；下半年（7–12 月）再滿 $250 可再獲 $50。全年合計最高 $100。需直接向航空公司購票，有效期至 2026/12/31。"
+        "sunsetDate": "2027-06-30",
+        "description": "2026 限定福利：上半年（1–6 月）於航空公司消費滿 $250 可獲 $50 回饋；下半年（7–12 月）再滿 $250 可再獲 $50。全年合計最高 $100。需直接向航空公司購票。注意：2026/6/4 後新開卡者，第二個 $50 期限延至 2027/6/30。"
       }
     ]
   },
@@ -2150,7 +2157,7 @@
   },
   {
     "id": "capital-one-savor-one-2026",
-    "name": "SavorOne Cash Rewards",
+    "name": "Savor Cash Rewards",
     "bankName": "Capital One",
     "hexColor": "#002663",
     "annualFee": 0,
@@ -2411,8 +2418,8 @@
     "annualFee": 595,
     "categoryBonuses": [
       {
-        "categoryName": "Hotels & Car Rentals (via AA.com)",
-        "multiplierLabel": "10x",
+        "categoryName": "Hotels & Car Rentals (AAdvantage Hotels/Cars)",
+        "multiplierLabel": "12x",
         "quarterNumber": 0,
         "quarterYear": 0
       },
@@ -2438,15 +2445,28 @@
       },
       {
         "title": "Lyft Credit",
-        "amount": 10,
+        "amount": 15,
         "cycle": "Monthly",
-        "description": "每月搭乘 3 趟符合資格的 Lyft 後，可獲 $10 報帳抵用金，全年最高 $120。"
+        "description": "每月搭乘 3 趟符合資格的 Lyft 後，可獲 $15 報帳抵用金，全年最高 $180。自 2026/8/23 起由 $10 調漲為 $15。"
+      },
+      {
+        "title": "AA Vacations Credit",
+        "amount": 250,
+        "cycle": "Semi-Annually",
+        "description": "每半年（1–6月及7–12月）於 American Airlines Vacations 訂購含 2 項以上組合的套裝旅遊，最高可獲 $250 報帳抵用金，全年合計最高 $500。自 2026/8/23 起新增。"
+      },
+      {
+        "title": "Inflight & Admirals Club Credit",
+        "amount": 100,
+        "cycle": "Annually",
+        "description": "每日曆年於美國航空班機或 Admirals Club 消費（含機上餐飲、Wi-Fi 等）最高可獲 $100 報帳抵用金。自 2026/8/23 起新增。"
       },
       {
         "title": "Grubhub Credit",
         "amount": 10,
         "cycle": "Monthly",
-        "description": "每帳單週期於 Grubhub 消費最高可獲 $10 報帳抵用金，每 12 個帳單週期最高 $120。"
+        "sunsetDate": "2027-08-31",
+        "description": "每帳單週期於 Grubhub 消費最高可獲 $10 報帳抵用金，每 12 個帳單週期最高 $120。注意：2026/8/23 起新申請人無此福利；現有持卡人保留至 2027/8/31。"
       }
     ]
   },
@@ -2824,6 +2844,12 @@
         "amount": 50,
         "cycle": "Annually",
         "description": "每年 $50 航空消費回饋，需單筆消費滿 $50 即自動抵扣。依日曆年度重置。"
+      },
+      {
+        "title": "Global Entry / TSA PreCheck Credit",
+        "amount": 120,
+        "cycle": "Every 4 Years",
+        "description": "每 4 年最高可獲 $120 報帳抵用金，用於支付 Global Entry 或 TSA PreCheck 申請費用。需以此卡付費。"
       }
     ]
   },
