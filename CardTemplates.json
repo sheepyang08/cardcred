@@ -171,6 +171,24 @@
         "multiplierLabel": "5%",
         "quarterNumber": 3,
         "quarterYear": 2026
+      },
+      {
+        "categoryName": "Restaurants",
+        "multiplierLabel": "5%",
+        "quarterNumber": 4,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Entertainment",
+        "multiplierLabel": "5%",
+        "quarterNumber": 4,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Utilities",
+        "multiplierLabel": "5%",
+        "quarterNumber": 4,
+        "quarterYear": 2026
       }
     ]
   },
@@ -1084,9 +1102,9 @@
       },
       {
         "title": "DoorDash Credit",
-        "amount": 25,
+        "amount": 35,
         "cycle": "Monthly",
-        "description": "每月 $25（全年 $300）。含 $5 餐廳 promo + 兩筆各 $10 外送/雜貨 promo，含免費 DashPass。有效期至 2027/12。"
+        "description": "每月 $35（全年 $420）。含 $15 任意訂單折抵（可用於餐廳、外送、雜貨等任何 DoorDash 訂單）+ 兩筆各 $10 非餐廳 promo，含免費 DashPass。有效期至 2027/12。自 2026/10/1 起生效（原為 $25）。"
       },
       {
         "title": "Lyft Credit",
@@ -2415,7 +2433,7 @@
     "name": "Citi AAdvantage Executive",
     "bankName": "Citi",
     "hexColor": "#003B70",
-    "annualFee": 595,
+    "annualFee": 695,
     "categoryBonuses": [
       {
         "categoryName": "Hotels & Car Rentals (AAdvantage Hotels/Cars)",
@@ -2746,7 +2764,8 @@
         "title": "Inflight Wi-Fi Credit",
         "amount": 25,
         "cycle": "Annually (Anniversary)",
-        "description": "每年最高 $25。依開卡週年日重置。僅限 American Airlines 營運航班上購買 Wi-Fi 使用。注意：此卡已停止新申請（2025年關閉），現有持卡人已於 2026年4月24日轉換至 Citi AAdvantage Platinum Select（新卡約 6–8 週寄達）。"
+        "sunsetDate": "2026-10-25",
+        "description": "每年最高 $25。依開卡週年日重置。僅限 American Airlines 營運航班上購買 Wi-Fi 使用。注意：此卡已停止新申請（2025年關閉），現有持卡人已於 2026年4月24日轉換至 Citi AAdvantage Platinum Select。⚠️ Citi 已確認：此 Wi-Fi 信用屬「祖父條款」保留福利，將於 2026/10/25 終止，持卡人可在下一個週年日前最後使用一次，此後永久取消。"
       }
     ]
   },
@@ -2918,20 +2937,32 @@
     "annualFee": 495,
     "categoryBonuses": [
       {
-        "categoryName": "Dining OR U.S. Grocery Stores (choose one/yr, grocery up to $25k)",
-        "multiplierLabel": "3x",
+        "categoryName": "Bilt Partner Restaurants",
+        "multiplierLabel": "5x",
         "quarterNumber": 0,
         "quarterYear": 0
       },
       {
-        "categoryName": "Everyday Purchases",
+        "categoryName": "Hotels & Flights (via Bilt Travel)",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "Lyft",
+        "multiplierLabel": "4x",
+        "quarterNumber": 0,
+        "quarterYear": 0
+      },
+      {
+        "categoryName": "All Other Purchases",
         "multiplierLabel": "2x",
         "quarterNumber": 0,
         "quarterYear": 0
       },
       {
-        "categoryName": "Rent",
-        "multiplierLabel": "1x",
+        "categoryName": "Rent / Mortgage",
+        "multiplierLabel": "1.25x",
         "quarterNumber": 0,
         "quarterYear": 0
       }
