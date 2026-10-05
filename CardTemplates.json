@@ -74,6 +74,24 @@
         "quarterYear": 2026
       },
       {
+        "categoryName": "Grocery Stores",
+        "multiplierLabel": "5%",
+        "quarterNumber": 4,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "Dining",
+        "multiplierLabel": "5%",
+        "quarterNumber": 4,
+        "quarterYear": 2026
+      },
+      {
+        "categoryName": "American Red Cross",
+        "multiplierLabel": "5%",
+        "quarterNumber": 4,
+        "quarterYear": 2026
+      },
+      {
         "categoryName": "Chase Travel Portal",
         "multiplierLabel": "5%",
         "quarterNumber": 0,
